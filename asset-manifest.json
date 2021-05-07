@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/roblivesinottawa/SimpleTodoAppWithReact/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/roblivesinottawa/SimpleTodoAppWithReact/static/js/main.c6f5ae6b.chunk.js",
+    "main.js.map": "/roblivesinottawa/SimpleTodoAppWithReact/static/js/main.c6f5ae6b.chunk.js.map",
+    "runtime-main.js": "/roblivesinottawa/SimpleTodoAppWithReact/static/js/runtime-main.d993b112.js",
+    "runtime-main.js.map": "/roblivesinottawa/SimpleTodoAppWithReact/static/js/runtime-main.d993b112.js.map",
+    "static/css/2.800be05e.chunk.css": "/roblivesinottawa/SimpleTodoAppWithReact/static/css/2.800be05e.chunk.css",
+    "static/js/2.6d065285.chunk.js": "/roblivesinottawa/SimpleTodoAppWithReact/static/js/2.6d065285.chunk.js",
+    "static/js/2.6d065285.chunk.js.map": "/roblivesinottawa/SimpleTodoAppWithReact/static/js/2.6d065285.chunk.js.map",
+    "static/js/3.d1d7aff7.chunk.js": "/roblivesinottawa/SimpleTodoAppWithReact/static/js/3.d1d7aff7.chunk.js",
+    "static/js/3.d1d7aff7.chunk.js.map": "/roblivesinottawa/SimpleTodoAppWithReact/static/js/3.d1d7aff7.chunk.js.map",
+    "index.html": "/roblivesinottawa/SimpleTodoAppWithReact/index.html",
+    "static/css/2.800be05e.chunk.css.map": "/roblivesinottawa/SimpleTodoAppWithReact/static/css/2.800be05e.chunk.css.map",
+    "static/css/main.9d5b29c0.chunk.css.map": "/roblivesinottawa/SimpleTodoAppWithReact/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.6d065285.chunk.js.LICENSE.txt": "/roblivesinottawa/SimpleTodoAppWithReact/static/js/2.6d065285.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d993b112.js",
+    "static/css/2.800be05e.chunk.css",
+    "static/js/2.6d065285.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.c6f5ae6b.chunk.js"
+  ]
+}
